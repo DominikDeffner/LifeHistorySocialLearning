@@ -1,1 +1,0 @@
-This repository contains the scripts to reproduce all results and plots in Deffner & McElreath (submitted): "The Importance of Life History and Population Regulation for the Evolution of Social Learning".
