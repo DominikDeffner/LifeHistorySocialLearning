@@ -1,7 +1,7 @@
 
 This repository contains the scripts to reproduce all results and plots in 
 
-Deffner & McElreath (submitted): "The Importance of Life History and Population Regulation for the Evolution of Social Learning".
+#Deffner & McElreath (submitted): "The Importance of Life History and Population Regulation for the Evolution of Social Learning".
 
 Description of files:
 
@@ -15,4 +15,4 @@ Description of files:
 
 - "Fig2MainResults.r" lets you compute relevant summary statistics from output of "Simulation_Code_Cluster.r" and plot main results for different costs of individual learning (Figs. 2, S4 and S5)
 
-- "Fig3TimingeffRates" takes individual-level data from "Simulation_Code_Cluster.r" and computes adaptation levels, number of births as well as effective vital rates for different times after change in the environment (Fig. 3)
+- "Fig3TimingeffRates.r" takes individual-level data from "Simulation_Code_Cluster.r" and computes adaptation levels, number of births as well as effective vital rates for different times after change in the environment (Fig. 3)
