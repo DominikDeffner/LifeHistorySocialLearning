@@ -1,3 +1,4 @@
+# Life History and the Evolution of Social Learning
 
 This repository contains the scripts to reproduce all results and plots in 
 
