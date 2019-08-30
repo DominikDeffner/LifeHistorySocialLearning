@@ -9,7 +9,7 @@ Description of files:
 
 - "FigS1Recursions.r" contains numerical simulation of analytical models and plotting script to reproduce population growth curves in Fig. S1 in the ESM
 
-- "FigS2Isoclines.r" calculates and plot isoclines for equilibrium population sizes (Fig. S2)
+- "FigS2Isoclines.r" calculates and plots isoclines for equilibrium population sizes (Fig. S2)
 
 - "Simulation_Code_single_FigS3.r". Code for running a single simulation with specified parameter combination. Also contains code to create basic adaptation and demographic dynamics plot from simulation output (Fig. S3)
 
