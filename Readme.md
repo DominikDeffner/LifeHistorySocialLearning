@@ -2,8 +2,8 @@
 
 This repository contains the scripts to reproduce all results and plots in 
 
-***Deffner & McElreath (submitted):
-"The Importance of Life History and Population Regulation for the Evolution of Social Learning"***
+***Deffner D, McElreath R. 2020. The importance of life history and population regulation for the evolution of social learning.
+Phil. Trans. R. Soc. B 20190492. http://dx.doi.org/10.1098/rstb.2019.0492***
 
 Description of files:
 
